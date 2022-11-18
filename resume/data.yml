@@ -2,17 +2,15 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: Luis
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I'm just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Luna
+about: Inventive Entry-Level Web Developer creates novel site designs and innovative user interfaces. Known fore acrchitecture customer-facing products that deliver unique experiences while complying with internal coding standards ant technical requirements. Clever provider of fresh assests to grow usership.
+position: Junior Full Stack Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1979
+  location: Caracas
 
 # you may add more experiences by duplicating the template
 
@@ -34,14 +32,21 @@ experience:
   description: Making coffee and baking cookies.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: Fullstack Developer
+  timeperiod: June 2022 - November 2022
+  description: HTML, CSS, SASS, JS, Bootstrap, React-Dom, Python
+  website: https://4geeks.com/
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Business Managing and Administration
+  timeperiod: September 2015 - June 2016
+  description: Proficient in managing finance, business resources, accounts, human resource, purchasing, marketing, stock control, office organisation and control, computerisation and communications.
+  website: https://www.icm.education/
+
+- degree: Mechanical Engineer Bachelor
+  timeperiod: September 2003 - June 2009
+  description: Thermodinamics, Fluid Mechanical, Solid Mechanical, Mechanical Devices Design, Power Plants Generator, Static Equipment, Heat Exchanger, Production Process, Material Science.
+  website: http://www.ucv.ve
+
 
 # skill level goes from 0 to 100
 skills:
@@ -61,15 +66,14 @@ skills:
   level: 70
 - name: Docker
   level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+knowledge: Also proficient in Adobe Photoshop and Illustrator, English Advances C1
   (English and Klingon).
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Brain Manager
+  platform: React
+  timeperiod: October 2022
+  description: Tool Pack to support focus and productivity, circle pomodoro timer, binaurals beats to focus, relax, meditation and slepp. Todo List and graph data dashboard with KPI's
 
 # optional, not all resume templates have hobbies included
 hobbies:
@@ -87,12 +91,12 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: dev.eng.luisluna@gmail.com
+  phone: +56 944 88 7031
+  street: Carmen 644 Av
+  city: Santiago de Chile
+  website: example.com
+  github: RDLuisL
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
